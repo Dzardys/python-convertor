@@ -1,7 +1,6 @@
 from PIL import Image
 import os
 import os.path
-import mimetypes
 
 def start():
     loadpath = input('Zadejte cestu k souboru: ')
